@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c0e81bc58e6fda419df0e0b69abf1de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - gameOverPanel: {fileID: 2694740008991660236, guid: 42ac06454b2d9f8458c6a907854b550f, type: 3}
+  - gameWonPanel: {fileID: 2812807449849621810, guid: 97ec3e9f104853c4eab2023d08faa803, type: 3}
+  - replayButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

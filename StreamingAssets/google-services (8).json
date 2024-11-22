@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "787064593330",
+    "project_id": "fighter-3d436",
+    "storage_bucket": "fighter-3d436.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787064593330:android:d77040c6f1a0cfc2b8e2ab",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787064593330-pv4qpgsodparbeka5jr3e5909v4433j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC-uAG0ImEOWulNup7Wyx7I1u53iziThM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787064593330-pv4qpgsodparbeka5jr3e5909v4433j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
